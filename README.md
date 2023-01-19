@@ -1,7 +1,7 @@
 # Metatheme-Metaverseworld
 
 
-
+![](src/assets/present02.png)
 
 
 I am still stick on landing page , device Section and Component more clearly and writing reusable component. This time, I am adding and animation by using Fremer Motion
